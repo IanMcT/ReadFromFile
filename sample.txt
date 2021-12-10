@@ -9,6 +9,6 @@ Manitoba,1383765
 Saskatchewan,1179844
 Alberta,4442879
 British Columbia,5214805
-Yukon,42,986
+Yukon,42986
 Northwest Territories,45504
 Nunavut,39403
